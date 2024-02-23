@@ -1,6 +1,6 @@
 <h1>Website I Re-create Using NextJs</h1>
 
-![Uploading prev.png…]()
+<img src="../feix-data/app/assets/prev.png" />
 
 
 <hr />
