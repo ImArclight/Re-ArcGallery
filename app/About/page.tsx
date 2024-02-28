@@ -108,8 +108,7 @@ export default function Page() {
             </div>
 
             <div className='card relative rounded-3xl h-auto md:mr-12 pb-8 md:ml-[10px]'>
-              <p className='mt-8 pt-8 pl-8 text-4xl'>Language, Library, Framework, and Tools</p>
-              <br />
+              
               <div className='flex flex-wrap gap-2 ml-8 mr-8'>
                 <Image src={html} alt={''} className='w-[30px] h-[30px]' />
                 <Image src={css} alt={''} className='w-[30px] h-[30px]' />
